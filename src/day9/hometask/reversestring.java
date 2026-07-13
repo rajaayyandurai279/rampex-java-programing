@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 
         public static void main(String[] args) {
-            String s="madam";
+            String s = "madam";
             char[] ch=new char[s.length()];
             int n=s.length();
 

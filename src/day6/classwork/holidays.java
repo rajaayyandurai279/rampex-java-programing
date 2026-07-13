@@ -1,6 +1,7 @@
 package day6.classwork;
 
-class Holidays {
+class
+Holidays {
 
         public static void main(String[] args) {
 

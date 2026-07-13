@@ -14,6 +14,7 @@ class find_max {
             if (nums[i] > max) {
                 max = nums[i];
             }
+
         }
 
         System.out.println("Array: " + Arrays.toString(nums));
