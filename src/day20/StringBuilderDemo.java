@@ -21,6 +21,15 @@ import java.util.Scanner;
             //------
             StringBuffer s = new StringBuffer(name);
             s = s.reverse();
+
+
+
+
+
+
+
+
+
             String str = s.toString();
             System.out.println(str);
 //        STRING BUILDER - Non-Thread Safe, Faster than String Builder
