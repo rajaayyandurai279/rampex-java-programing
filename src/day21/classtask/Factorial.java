@@ -1,4 +1,4 @@
-package day21;
+package Day21.classtask;
 
 public class Factorial {
     public static void main(String[] args){

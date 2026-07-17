@@ -1,4 +1,4 @@
-package day21;
+package Day21.classtask;
 
 public class Fibo {
     public static void main(String[] args) {

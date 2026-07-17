@@ -1,4 +1,4 @@
-package Day_18.Class_Task;
+package Day18.Home_Task;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Collections;
