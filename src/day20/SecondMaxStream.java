@@ -10,7 +10,7 @@ import java.util.HashMap;
             int [] arr = {1,2,5,4,3};
             Arrays.stream(arr).sorted().skip(3).limit(1).forEach(n->System.out.print(3));
 //        Arrays.stream(arr).filter(0,());
-            String name = "Nikitha";
+            String name = "Raja";
             //Finding freq using stream api
 //        Stream<String> s = Stream.of(name);
 //        Character [] ch = name.toCharArray();

@@ -3,7 +3,7 @@ package day20;
 import java.util.Scanner;
     public class StringBuilderDemo {
         public static void main(String [] args){
-            String name = "Shree ";
+            String name = "Raja ";
 //        StringBuilder s = new StringBuilder(name);
 //        String s = new StringBuilder(name).reverse().toString();
 //        s.append("Saravanan");

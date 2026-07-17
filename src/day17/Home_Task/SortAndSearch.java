@@ -1,4 +1,4 @@
-package Day_17.Home_Task;
+package Day17;
 
 import java.util.*;
 

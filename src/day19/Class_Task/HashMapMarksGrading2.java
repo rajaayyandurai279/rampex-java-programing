@@ -11,7 +11,7 @@ public class HashMapMarksGrading2 {
         hm.put("Saravanan", 96);
         hm.put("Deekchith", 94);
         hm.put("Nilan", 92);
-        hm.put("Deek", 100);
+        hm.put("Raja", 100);
         System.out.println(hm.higherKey("Shree"));
 //        System.out.println(hm.entrySet());
 //        int min = 100;
